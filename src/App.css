@@ -1,0 +1,11 @@
+.slide{
+  width: 50vw; 
+}
+main{
+  width: 99vw;
+  height: 90vh;
+}
+footer{
+  background-color:gray;
+  color: aliceblue;
+}
